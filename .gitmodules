@@ -1,9 +1,3 @@
-[submodule "reef-csharp"]
-	path = Sources/submodules/reef
-	url = https://git.betlab.com/tt_group/reef.csharp.git
-[submodule "reef-typescript"]
-	path = Sources/Frontend/EventsManagerUI/ClientApp/src/submodules/reef
-	url = https://git.betlab.com/tt_group/reef.typescript.git
-[submodule "Sources/submodules/tradingcore.emulator"]
-	path = Sources/submodules/tradingcore.emulator
-	url = https://git.betlab.com/tt_group/tradingcore.emulator.git
+[submodule "csharp_child"]
+	path = ../submodule
+	url = https://github.com/klirium/csharp_child.git
