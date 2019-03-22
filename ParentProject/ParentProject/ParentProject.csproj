@@ -5,4 +5,8 @@
     <TargetFramework>netcoreapp2.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\..\csharp_child\ChildProject\ChildProject\ChildProject.csproj" />
+  </ItemGroup>
+
 </Project>

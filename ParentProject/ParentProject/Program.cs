@@ -1,4 +1,5 @@
 ﻿using System;
+using ChildProject;
 
 namespace ParentProject
 {
@@ -7,6 +8,7 @@ namespace ParentProject
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!1");
+            Child.Do();
         }
     }
 }
